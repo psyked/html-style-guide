@@ -1,3 +1,3 @@
 ---
-title: SASS / CSS Development Guidelines
+title: HTML Development Guidelines
 ---
