@@ -44,7 +44,9 @@ Background reading can get a little boring, so you can skip past that and onto t
 </div>
 
 <div class='row'>
+<div class='large-12 columns'>
 <hr/>
+</div>
 <div class='large-4 columns'>
 {{#markdown}}
 ### Formatting & validating your HTML
