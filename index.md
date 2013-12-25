@@ -89,7 +89,10 @@ Best Practice Guidelines for SEO and using the appropriate semantic elements.
 {{#markdown}}
 ### Background Reading
 
-<a href='#' class='button'>Open the Summary now.</a>
+For some interesting background reading, you might like to take a look at the following resources:
+
+- [I Can Smell Your CMS]() [ Presentation, 40mins ]
+
 {{/markdown}}
 </div>
 </div>
