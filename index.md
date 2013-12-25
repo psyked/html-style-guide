@@ -65,7 +65,8 @@ Background reading can get a little boring, so you can skip past that and onto t
 {{#markdown}}
 ### Which version of HTML?
 
-**HTML5**, of course. *Duh.*
+> **HTML5**, of course. *Duh.*
+> <cite>James Ford</cite>
 
 It's a brave new world, and we don't need the burden of all that cumbersome XHTML rubbish. **HTML5 + Polyfils** are the way
 forward, whilst admirably dealing with the browsers of yesteryear.
