@@ -65,7 +65,12 @@ Background reading can get a little boring, so you can skip past that and onto t
 {{#markdown}}
 ### Which version of HTML?
 
-<a href='#' class='button'>Open the Summary now.</a>
+**HTML5**, of course. *Duh.*
+
+It's a brave new world, and we don't need the burden of all that cumbersome XHTML rubbish. **HTML5 + Polyfils** are the way
+forward, whilst admirably dealing with the browsers of yesteryear.
+
+You'll need a little guidance of course, which is why we've documented our preferred setup in the [summary]() page.
 {{/markdown}}
 </div>
 </div>
