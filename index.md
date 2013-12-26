@@ -49,9 +49,18 @@ Background reading can get a little boring, so you can skip past that and onto t
 </div>
 <div class='large-4 columns'>
 {{#markdown}}
-### Formatting & validating your HTML
+### Formatting & <br/>Validating your HTML
 
-<a href='#' class='button'>Open the Summary now.</a>
+Making your code work is easy. Sticking to the rules and making it look pretty is hard.
+
+Which leaves you with the questions:
+- Do you 'Lint' your HTML?
+- Does it **Need** to validate?
+- **How** do you validate it?
+- Should you make it look *pretty*, <br/>or make it as *small as possible?*
+
+<!-- There's a time and a place for optimising and minifying your HTML code, and that's not during development. -->
+... questions to which you can find the answers in the [HTML Validation Best Practice Guidelines.]()
 {{/markdown}}
 </div>
 
@@ -87,7 +96,7 @@ Clean, well-structured, **semantic HTML** has huge benefits for your SEO; as doe
 Regardless of whether Search Engine Optimisation is a top priority for your website, you should always be following the
 Best Practice Guidelines for SEO and using the appropriate semantic elements.
 
-<a href='#' class='button'>Read the full HTML & SEO Guidelines now</a>
+<a href='#' class='button'>Read the full HTML + SEO Guidelines now.</a>
 {{/markdown}}
 </div>
 
