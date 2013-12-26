@@ -47,13 +47,11 @@ Background reading can get a little boring, so you can skip past that and onto t
 <div class='large-12 columns'>
 <hr/>
 </div>
-<div class='large-4 columns'>
+<div class='large-5 columns'>
 {{#markdown}}
 ### Formatting & <br/>Validating your HTML
 
-Making your code work is easy. Sticking to the rules and making it look pretty is hard.
-
-Which leaves you with the questions:
+Making your code work is easy. Sticking to the rules and making it look pretty is hard. Which leaves you with the questions:
 - Do you 'Lint' your HTML?
 - Does it **Need** to validate?
 - **How** do you validate it?
@@ -64,13 +62,14 @@ Which leaves you with the questions:
 {{/markdown}}
 </div>
 
-<div class='large-4 columns'>
+<div class='large-2 columns'>
 {{#markdown}}
+<br/>
 ![HTML5 Logo](assets/HTML5.png)
 {{/markdown}}
 </div>
 
-<div class='large-4 columns'>
+<div class='large-5 columns'>
 {{#markdown}}
 ### Which version of HTML?
 
