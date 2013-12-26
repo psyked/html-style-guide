@@ -86,7 +86,7 @@ module.exports = function (grunt) {
             js: {
                 options: {
                     sourceMap: 'app.js.map',
-                    sourceMapRoot: '../js/'
+                    sourceMapRoot: './js/'
                 },
                 files: {
                     'js/app.js': ['js-source/app.js']
