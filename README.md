@@ -3,7 +3,7 @@ HTML Development Guidelines
 
 Live Preview
 ------------
-View the GitHub Pages version of this repo at http://psyked.github.io/html-style-guide/
+View the GitHub Pages version of this repo at http://mmtdigital.github.io/html-style-guide/
 
 Contributing
 ------------
